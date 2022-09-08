@@ -207,7 +207,7 @@ footer {
 .whats-new-author {
   color: hsla(0, 0%, 100%, 0.3);
   font-weight: bolder;
-  font-size: 2.5vw;
+  font-size: 1vw;
 }
 .whats-new-post {
   line-height: 1.8rem;
@@ -303,7 +303,7 @@ footer {
 }
 .post-year-city {
   color: #00ffa7;
-  //font-size: 3vw;
+  font-size: 3vw;
   font-weight: 900;
   margin-bottom: 5px;
 }
@@ -318,7 +318,7 @@ footer {
   overflow: hidden;
 }
 .post-author {
-  font-size: 2.5vw;
+  font-size: 1vw;
   font-weight: bolder;
   color: hsla(0, 0%, 100%, 0.3);
   text-transform: uppercase;
@@ -450,29 +450,6 @@ footer {
 .links:active {
   display: flex;
 }
-
-/*@media only screen and (min-width: 150px) and (max-width: 768px) {*/
-/*    .sign-in {*/
-/*        font-size: 2.5vw;*/
-/*    }*/
-/*    .open-nav {*/
-/*        font-size: 5vw;*/
-
-/*    }*/
-/*    .close-nav {*/
-/*        font-size: 5vw;*/
-/*    }*/
-/*    .links {*/
-/*        font-size: 2.4vw;*/
-/*    }*/
-/*    .author {*/
-/*        font-size: 2.5vw;*/
-/*    }*/
-/*    #text-on-image {*/
-/*        font-size: 5vw;*/
-/*    }*/
-
-/*}*/
 
 @media (min-width: 1000px) {
   .sign-in {
@@ -723,7 +700,7 @@ footer {
   .whats-new-author {
     color: hsla(0, 0%, 100%, 0.3);
     font-weight: lighter;
-    font-size: 1vw;
+    font-size: 0.7vw;
   }
 
   .whats-new-post:hover {
@@ -786,7 +763,7 @@ footer {
 
   .post-year-city {
     color: #00ffa7;
-    font-size: 0.75rem;
+    font-size: 0.8vw;
     margin-bottom: 5px;
   }
 
@@ -805,7 +782,7 @@ footer {
   }
 
   .post-author {
-    font-size: 10px;
+    font-size: 0.7vw;
     color: hsla(0, 0%, 100%, 0.3);
     text-transform: uppercase;
   }
@@ -973,7 +950,7 @@ footer {
 
   .text-on-image {
     position: relative;
-    margin-top: -8.5rem;
+    margin-top: -10.5rem;
     padding: 0;
   }
   .year-city {
