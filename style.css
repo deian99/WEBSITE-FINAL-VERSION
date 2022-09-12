@@ -211,7 +211,7 @@ footer {
 .whats-new-author {
   color: hsla(0, 0%, 100%, 0.3);
   font-weight: bolder;
-  font-size: 1vw;
+  font-size: 1.9vw;
 }
 .whats-new-post {
   line-height: 1.8rem;
@@ -307,7 +307,7 @@ footer {
 }
 .post-year-city {
   color: #00ffa7;
-  font-size: 1.5vw;
+  font-size: 2.5vw;
   font-weight: 900;
   margin-bottom: 5px;
 }
@@ -321,7 +321,7 @@ footer {
   overflow: hidden;
 }
 .post-author {
-  font-size: 1vw;
+  font-size: 1.8vw;
   font-weight: bolder;
   color: hsla(0, 0%, 100%, 0.3);
   text-transform: uppercase;
