@@ -1,4 +1,8 @@
 body {
+  all: unset;
+}
+
+body {
   position: relative;
   background-color: black;
   margin-top: 16px;
@@ -207,7 +211,7 @@ footer {
 .whats-new-author {
   color: hsla(0, 0%, 100%, 0.3);
   font-weight: bolder;
-  font-size: 2vw;
+  font-size: 1vw;
 }
 .whats-new-post {
   line-height: 1.8rem;
@@ -303,18 +307,17 @@ footer {
 }
 .post-year-city {
   color: #00ffa7;
-  font-size: 3vw;
+  font-size: 1.5vw;
   font-weight: 900;
   margin-bottom: 5px;
 }
 .post-title {
   color: white;
   transition: color 0.2s;
-  font-size: 3.5vw;
+  font-size: 3vw;
   font-weight: 900;
   margin-bottom: 9px;
   padding-bottom: 12px;
-  max-height: 50px;
   overflow: hidden;
 }
 .post-author {
