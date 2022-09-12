@@ -307,21 +307,21 @@ footer {
 }
 .post-year-city {
   color: #00ffa7;
-  font-size: 1.5vw;
+  font-size: 3vw;
   font-weight: 900;
   margin-bottom: 5px;
 }
 .post-title {
   color: white;
   transition: color 0.2s;
-  font-size: 3vw;
+  font-size: 5vw;
   font-weight: 900;
   margin-bottom: 9px;
   padding-bottom: 12px;
   overflow: hidden;
 }
 .post-author {
-  font-size: 1vw;
+  font-size: 1.5vw;
   font-weight: bolder;
   color: hsla(0, 0%, 100%, 0.3);
   text-transform: uppercase;
