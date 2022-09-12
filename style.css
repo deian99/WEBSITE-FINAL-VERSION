@@ -2,7 +2,7 @@ body {
   position: relative;
   background-color: black;
   margin-top: 16px;
-    font-size: 100%;
+  font-size: 100%;
   width: 100vw;
   font-family: MuseoSans, Arial, sans-serif;
 }
@@ -199,7 +199,7 @@ footer {
 }
 .whats-new-title {
   font-weight: 900;
-  font-size: 2rem;
+  font-size: 2vw;
   padding-bottom: 16px;
   color: white;
   transition: color 0.17s ease-in-out;
@@ -207,7 +207,7 @@ footer {
 .whats-new-author {
   color: hsla(0, 0%, 100%, 0.3);
   font-weight: bolder;
-  font-size: 1.2vw;
+  font-size: 2vw;
 }
 .whats-new-post {
   line-height: 1.8rem;
@@ -473,7 +473,7 @@ footer {
     font-family: MuseoSans, Arial, sans-serif;
     line-height: 1.2;
     font-weight: 900;
-    font-size: 0.8rem;
+    //font-size: 0.8rem;
     background-color: black;
     color: white;
     margin: 0;
