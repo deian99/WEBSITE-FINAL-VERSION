@@ -285,4 +285,9 @@ function createUsers(image, name, likes) {
   );
 }
 
+function openNav() {
+  let links = document.getElementById('whats-hot-header')
+  links.style.display = 'flex'
+}
+
 addData();
